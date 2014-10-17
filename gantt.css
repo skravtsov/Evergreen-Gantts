@@ -546,6 +546,11 @@ body{
 /*SKRAVTSOV*/
 
 .tmp{
-
-  /*TODO*/
+  border: 1px;
+  /*TO DO*/
 }
+.new_tmp{
+  /*todo*/
+  width:50%;
+}
+
